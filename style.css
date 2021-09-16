@@ -1,0 +1,46 @@
+body{
+    background-size:cover;
+}
+
+#heading_one{
+    font-size:25px;
+    font-family:'Times New Roman', Times, serif;
+    width:100%;
+    top:0;
+    margin:0;
+}
+
+#start, #stop, #pause{
+    font-size:18px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#status{
+    font-size:18px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: chocolate;
+}
+
+#number_of_objects{
+    font-size:18px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: chocolate;
+}
+
+#copyright_footer{
+    background-color:cornsilk;
+    margin:0;
+    bottom:0;
+    width:100%;
+    font-size:22px;
+    font-family:'Times New Roman', Times, serif;
+    position:fixed;
+} 
+
+canvas{
+    border-radius:70px;
+    width:500px;
+    height:500px;
+    box-shadow:5px 5px 5px ghostwhite;
+    margin-top:55px;
+} 
